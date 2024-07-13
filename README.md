@@ -8,7 +8,7 @@ Analisar dados com Python 📚
 ## Available Scripts
 
 In the project directory, you can run:
-- **Install npm packages**
+- **Install packages**
 ```bash
   pip install pandas openpyxl numpy ipykernel nbformat plotly
 ```
